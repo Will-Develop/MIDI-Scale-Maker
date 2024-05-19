@@ -1,0 +1,45 @@
+@font-face {
+    font-family: 'Roboto-Black';
+    src: url('../font/roboto-black/Roboto-Black.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+ * {
+    font-family: 'Roboto-Black';
+    color: #ffffff;
+ }
+
+
+ body {
+    background-color: #000000;
+ }
+
+
+ #header-container {
+    padding: 40px;
+ }
+
+
+ul {
+    padding: 0;
+}
+
+
+ li {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    list-style-type: none;
+ }
+
+
+ img {
+    width: 40%;
+    min-width: 250px;
+ }
+
+
+ a {
+    color: #ffffff;
+ }
