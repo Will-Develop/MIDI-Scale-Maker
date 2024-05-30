@@ -1,9 +1,10 @@
 # MIDI Scale Maker
-Create your own Scale
-
-This project was created with [HISE](https://github.com/christophhart/HISE/tree/develop)
+Create your own Scale  
+  
+Official website https://will-develop.github.io/MIDI-Scale-Maker/  
 
 # Contribute
+This project was created with [HISE](https://github.com/christophhart/HISE/tree/develop)  
 If you have installed HISE, download the HISE folder and open the "Snap to Note.hip" file in HISE.  
   
 Or just import this snippet into HISE
